@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(to top left, #66ccff 19%, #99ffcc 78%);
+  background: linear-gradient(to bottom left, #33ccff 16%, #99ccff 80%);
 }
 ::selection{
   color: #fff;
