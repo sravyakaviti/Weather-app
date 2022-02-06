@@ -10,10 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: url(pic.jpg);
-  background-position: center ;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(to top left, #66ccff 19%, #99ffcc 78%);
 }
 ::selection{
   color: #fff;
